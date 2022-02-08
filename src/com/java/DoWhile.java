@@ -8,5 +8,11 @@ public static void main(String[] args) {
 		System.out.println("Value of x is ="+x);
 		++x;
 	}while(x<20);
+
+int x=10;
+	do{
+		System.out.println("Value of x is ="+x);
+		++x;
+	}while(x<20);
 }
 }
